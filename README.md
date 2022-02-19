@@ -1,6 +1,35 @@
 # Avicenna: Syllogistic Commonsense Reasoning
 # Result
 Please refer to the manuscript for more results.
+
+ Model| Test Acc. (%) 
+ -----|------
+ Baselines:| 
+ Random label | 50.16   
+ Manhattan LSTM | 51.50
+ ESIM + ELMO |66.90
+ Partial input:| 
+ Fine-tuned BERT with Avicenna [minor premise Only] | 59.33
+ Fine-tuned BERT with Avicenna [major premise Only] |59.83
+ Pre-trained LMs:|
+ Base BERT (BERT pre-trained model classification)| 56.75
+ BERT Based Avicenna-trained model|87.69
+ XLNet Based Avicenna-trained model |89.19
+ Adversarial BERT Based Avicenna-trained model|89.68
+ Adversarial XLNet Based Avicenna-trained model |92.19
+ Human Performance:|98.16
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+  
+ 
+ 
  Model| BLEU | ROUGE | BERT-Score | Human Acc. (%) 
  -----|------| ------| ---------  |--------------  
  RNN LSTM| 0.60| 3.80 | 76.5  |-  
