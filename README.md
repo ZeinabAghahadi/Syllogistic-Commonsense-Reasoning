@@ -8,6 +8,7 @@ Syllogism is a common form of deductive reasoning that requires precisely two pr
 Please refer to the manuscript for more results.
 
 
+
 **1.syllogistic NLI **
 
  Model| Test Acc. (%) 
