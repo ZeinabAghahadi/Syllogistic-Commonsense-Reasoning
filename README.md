@@ -6,7 +6,9 @@ Syllogism is a common form of deductive reasoning that requires precisely two pr
 
 # Results
 Please refer to the manuscript for more results.
-1.syllogistic NLI 
+
+
+**1.syllogistic NLI **
 
  Model| Test Acc. (%) 
  -----|------
@@ -26,7 +28,7 @@ Please refer to the manuscript for more results.
  Human Performance:|98.16
  
  
- 2.syllogistic NLG
+ **2.syllogistic NLG**
  
  
  Model| BLEU | ROUGE | BERT-Score | Human Acc. (%) 
