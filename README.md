@@ -1,6 +1,12 @@
 # Avicenna: Syllogistic Commonsense Reasoning
-# Result
+Syllogism is a common form of deductive reasoning that requires precisely two premises and one conclusion. It is considered as a logical method to arrive at new information. For instance, given that "Avicenna wrote the famous book the Canon of Medicine " and " The Canon of Medicine has influenced modern medicine," it can be concluded that "Avicenna has influenced modern medicine."  The Avicenna corpus was developed as a benchmark for syllogistic NLI and syllogistic NLG.
+
+
+
+
+# Results
 Please refer to the manuscript for more results.
+1.syllogistic NLI 
 
  Model| Test Acc. (%) 
  -----|------
@@ -20,14 +26,7 @@ Please refer to the manuscript for more results.
  Human Performance:|98.16
  
  
- 
- 
- 
- 
- 
-
- 
-  
+ 2.syllogistic NLG
  
  
  Model| BLEU | ROUGE | BERT-Score | Human Acc. (%) 
