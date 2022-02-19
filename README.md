@@ -1,9 +1,9 @@
 # Avicenna: Syllogistic Commonsense Reasoning
 Syllogism is a common form of deductive reasoning that requires precisely two premises and one conclusion. It is considered as a logical method to arrive at new information. For instance, given that "Avicenna wrote the famous book the Canon of Medicine " and " The Canon of Medicine has influenced modern medicine," it can be concluded that "Avicenna has influenced modern medicine."
 - The Avicenna corpus was developed as a benchmark for syllogistic NLI and syllogistic NLG.
-## Avicenna contains 6,000 records for binary classification, 3000 of them with a syllogistic relation, and the other 3000 with no syllogistic relation.
-## syllogistic NLI: Identifying the possibility of inferring between pairs of inputted sentences. 
-## syllogistic NLG: Generating a conclusion sentence for two sentences with a syllogistic relation.
+- Avicenna contains 6,000 records for binary classification, 3000 of them with a syllogistic relation, and the other 3000 with no syllogistic relation.
+- syllogistic NLI: Identifying the possibility of inferring between pairs of inputted sentences. 
+- syllogistic NLG: Generating a conclusion sentence for two sentences with a syllogistic relation.
 
 
 3,000 of sentence pairs have a syllogistic relation present and in the remaining 3000 records a syllogistic relation is absent. 
