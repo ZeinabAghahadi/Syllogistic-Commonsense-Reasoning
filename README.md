@@ -31,7 +31,7 @@ Please refer to the manuscript for more results.
  Human Performance:|98.16
  
  
- **2. Syllogistic NLG**
+ ## 2. Syllogistic NLG
  
  
  Model| BLEU | ROUGE | BERT-Score | Human Acc. (%) 
