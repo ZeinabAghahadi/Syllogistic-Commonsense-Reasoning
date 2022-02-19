@@ -45,6 +45,15 @@ Please refer to the manuscript for more results.
 
 
 # Bibtex
+@Manual{R-base,
+  title = {R: A Language and Environment for Statistical
+           Computing},
+  author = {{R Core Team}},
+  organization = {R Foundation for Statistical Computing},
+  address = {Vienna, Austria},
+  year = {2019},
+  url = {https://www.R-project.org},
+}
 @article{aghahadi2022,
   title={Avicenna: A Challenge Dataset for Natural Language Generation toward Commonsense Syllogistic Reasoning},
   author={Zeinab Aghahadi, Alireza talebpour},
