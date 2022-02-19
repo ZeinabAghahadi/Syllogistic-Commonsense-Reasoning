@@ -11,7 +11,7 @@ Please refer to the manuscript for more results.
 
 
 
-**1. Syllogistic NLI **
+## 1. Syllogistic NLI 
 
  Model| Test Acc. (%) 
  -----|------
