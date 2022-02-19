@@ -12,8 +12,8 @@ Please refer to the manuscript for more results.
 Fine-tuned Gpt-2 with middle-term dataset
 Fine-tuned Gpt-2 with Avicenna
 
-         | BLEU   | ROUGE   |BERT-Score   |Human Acc. (%)   
- ------------- |:-------------:| -----:|   |-   
+ Model   | BLEU   | ROUGE   |BERT-Score   |Human Acc. (%)
+ --- |:-------------:| -----:|   |-   
  RNN LSTM       | right-aligned | $1600 |   |11   
  col 2 is      | centered      |   $12 |   |31.2   
  zebra stripes | are neat      |    $1 |   |32   
