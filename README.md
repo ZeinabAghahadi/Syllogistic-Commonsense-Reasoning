@@ -54,14 +54,5 @@ Model| Test Acc. (%)
 
 
 
-# Bibtex
-
-@article{aghahadi2022,
-  title={Avicenna: A Challenge Dataset for Natural Language Generation toward Commonsense Syllogistic Reasoning},
-  author={Zeinab Aghahadi, Alireza talebpour},
-  journal={Journal of Applied Non-Classical Logics},
-  year={2022},
-  publisher = {Taylor and Francis}
-} 
 
 
