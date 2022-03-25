@@ -14,8 +14,7 @@ The Avicenna corpus is a benchmark for syllogistic NLI and syllogistic NLG:
 
 
 
-# Results
-Please refer to the manuscript for more results.
+# Tasks and Results
 
 
 
