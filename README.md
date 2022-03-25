@@ -52,8 +52,7 @@ Model| Test Acc. (%)
  Fine-tuned Gpt-2 with middle-term dataset (Transfer learning) | 54.3      |  54.2 |   92.5|32.0   
  
 
-## Bibtex
-'kkk'
+
 
 
 
