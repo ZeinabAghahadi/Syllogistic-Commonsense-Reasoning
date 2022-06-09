@@ -35,8 +35,8 @@ Model| Test Acc. (%)
  Base BERT (BERT pre-trained model classification)| 56.75
  BERT Based Avicenna-trained model|87.69
  XLNet Based Avicenna-trained model |89.19
- Adversarial BERT Based Avicenna-trained model|89.68
- Adversarial XLNet Based Avicenna-trained model |92.19
+ Adversarial RoBERTa Based Avicenna-trained model|88.58
+ Adversarial XLNet Based Avicenna-trained model |90.45
  Human Performance:|98.16
  
  
