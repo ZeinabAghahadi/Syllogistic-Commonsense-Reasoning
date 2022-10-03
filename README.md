@@ -71,7 +71,7 @@ Model| Test Acc. (%)
   volume={8},
   number={2},
   pages={210--239},
-  year={2020},
+  year={2022},
   publisher={BRILL}
 }
 ```
