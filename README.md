@@ -62,6 +62,17 @@ Model| Test Acc. (%)
   year={2022},
   publisher={Taylor \& Francis}
 }
+
+@article{aghahadi2020language,
+  title={Language-Based Syllogistic Reasoning Using Deep Neural Networks},
+  author={Aghahadi, Zeinab and Talebpour, Alireza},
+  journal={Cognitive Semantics},
+  volume={8},
+  number={2},
+  pages={210--239},
+  year={2020},
+  publisher={BRILL}
+}
 ```
 
 
